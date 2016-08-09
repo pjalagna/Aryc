@@ -4,7 +4,7 @@
 - an array or stream with the name followed by its value and ending with a blank (NULL) name
 -- ie firstName Paul LastName Alagna company (Alagna Rythms Inc.) NULL
 ### CVI records
--- CV records prepended with a record number; records ends with blank NULL record number
+-- CV records prepended with a record number; records end with blank NULL record number
 -- ie 
 #### 1 firstName Paul LastName Alagna company (Alagna Rythms Inc.) NULL <- this null ends CV record
 #### 2 firstName Paul LastName Alagna company (Alagna Rythms Inc.) NULL 
