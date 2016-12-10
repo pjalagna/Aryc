@@ -1,31 +1,31 @@
 # Aryc
 ##projects
-###berta
+###berta == Workflow testing architecture
 -- link
-###basiis
+###basiis == low level threaded language Basic actuatior system for Intelligent information systems
 -- link
-###moose
+###moose  == mulitle object operating system
 -- https://github.com/pjalagna/moose
-###weed
+###weed == Watchdog Timer device (WDT)
 -- link
-##bail
-###sections
+##bail == mechinism for patching code fragments
+###sections == mechinism and platorm for unsynchronized assembly
 -- link
-###debbie
+###debbie == Data Base Engine (DBE)
 -- link
-###loci
+###loci == mechinism for inserting files and systems into disk or online space  AND into chron files for execution
 -- link
 ###concequences
 -- link
-###Pi-calc
+###Pi-calc == inter system protocol for the transfer of information.
 -- link
 ###point-diagrams
 -- link
-###crossfire (swof)
+###crossfire (swof) == mechinism for sending information across channels
 -- link
 ###mobDep
 -- link
-###Dyde (Dynamic Data evolution)
+###Dyde (Dynamic Data evolution) == architecture for growing/changing database configurations according to usage.
 -- link
 
 ## protocols
