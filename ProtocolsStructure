@@ -14,4 +14,13 @@
 ### BPX
 ### BPX+
 ### PDX
+((point-id( operator  yes-pointer, no-pointer)
+language:
+point-id op --{-}> nextNumber
+         ^------------V
+         X
+ ^-------V  
+ @endend
+ if point-id is number1.number2 then number2 is the not-true pointer for number1
+ if point-id is a negitive number execution stops and returns with thatnumber (-1 is ok exit)
 ### TCVR
