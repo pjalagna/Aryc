@@ -4,7 +4,7 @@
 -- link
 ###basiis == low level threaded language Basic actuatior system for Intelligent information systems
 -- link
-###moose  == mulitle object operating system
+###moose  == mulitple object operating system
 -- https://github.com/pjalagna/moose
 ###weed == Watchdog Timer device (WDT)
 -- link
