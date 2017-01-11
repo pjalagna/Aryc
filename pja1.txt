@@ -5,4 +5,5 @@ must upload files into web IE NOT an automatic process
 
 upload looses pathing.
 must create folder in online github
-
+folder is repository
+-- will manually create "Notes2"
