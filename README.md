@@ -18,7 +18,7 @@
 ###concequences
 -- link
 ###Pi-calc == inter system protocol for the transfer of information.
--- link
+-- https://github.com/pjalagna/Pi-Calc
 ###point-diagrams
 -- link
 ###crossfire (swof) == mechinism for sending information across channels
