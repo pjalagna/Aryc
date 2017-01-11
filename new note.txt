@@ -2,4 +2,6 @@ file new note
 
 after download from web to here i created this new file
 q - will it show as change to local github
+-- change seen in local
+---- committed to master
 q - will it show as change to online
