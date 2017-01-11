@@ -1,2 +1,11 @@
 file sub1txt.txt
 file under folder 
+online edits here
+
+order of changes
+-- make local edits
+-- submit to master (once done)
+---- q - WIP changes?
+-- sync
+
+review online
