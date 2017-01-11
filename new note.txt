@@ -7,5 +7,7 @@ q - will it show as change to local github
 failed to sync
 needed to login
 ran sync editing online
+ran sync again to update local
+new local edits here
 
 q - will it show as change to online
