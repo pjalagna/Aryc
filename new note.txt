@@ -5,5 +5,7 @@ q - will it show as change to local github
 -- change seen in local
 ---- committed to master
 failed to sync
+needed to login
+ran sync editing online
 
 q - will it show as change to online
