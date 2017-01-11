@@ -3,3 +3,6 @@ a file added to aryc local repository
 NOT to global github
 must upload files into web IE NOT an automatic process
 
+upload looses pathing.
+must create folder in online github
+
