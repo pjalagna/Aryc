@@ -3,7 +3,7 @@
 ###berta == Workflow testing architecture
 -- https://github.com/pjalagna/BERTA
 ###basiis == low level threaded language Basic actuatior system for Intelligent information systems
--- link
+-- https://github.com/pjalagna/BASIIS.git
 ###moose  == mulitple object operating system
 -- https://github.com/pjalagna/moose
 ###weed == Watchdog Timer device (WDT)
