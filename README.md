@@ -8,7 +8,7 @@
 -- https://github.com/pjalagna/moose
 </br>###weed == Watchdog Timer device (WDT)
 -- link
-##bail == mechinism for patching code fragments
+</br>###bail == mechinism for patching code fragments
 </br>###sections == mechinism and platorm for unsynchronized assembly
 -- link
 </br>###debbie == Data Base Engine (DBE)
