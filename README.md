@@ -1,44 +1,44 @@
 # Aryc
 ##projects</br>
-###berta == Workflow testing architecture
+</br>###berta == Workflow testing architecture
 -- https://github.com/pjalagna/BERTA
-###basiis == low level threaded language Basic actuatior system for Intelligent information systems
+</br>###basiis == low level threaded language Basic actuatior system for Intelligent information systems
 -- https://github.com/pjalagna/BASIIS.git
-###moose  == mulitple object operating system
+</br>###moose  == mulitple object operating system
 -- https://github.com/pjalagna/moose
-###weed == Watchdog Timer device (WDT)
+</br>###weed == Watchdog Timer device (WDT)
 -- link
 ##bail == mechinism for patching code fragments
-###sections == mechinism and platorm for unsynchronized assembly
+</br>###sections == mechinism and platorm for unsynchronized assembly
 -- link
-###debbie == Data Base Engine (DBE)
+</br>###debbie == Data Base Engine (DBE)
 -- link
-###loci == mechinism for inserting files and systems into disk or online space  AND into chron files for execution
+</br>###loci == mechinism for inserting files and systems into disk or online space  AND into chron files for execution
 -- link
-###concequences
+</br>###concequences
 -- link
-###Pi-calc == inter system protocol for the transfer of information.
+</br>###Pi-calc == inter system protocol for the transfer of information.
 -- https://github.com/pjalagna/Pi-Calc
-###point-diagrams
+</br>###point-diagrams
 -- link
-###crossfire (swof) == mechinism for sending information across channels
+</br>###crossfire (swof) == mechinism for sending information across channels
 -- link
-###mobDep
+</br>###mobDep
 -- link
-###Dyde (Dynamic Data evolution) == architecture for growing/changing database configurations according to usage.
+</br>###Dyde (Dynamic Data evolution) == architecture for growing/changing database configurations according to usage.
 -- link
 
 ## protocols
 -- https://github.com/pjalagna/Aryc/blob/master/ProtocolsStructure
-### CV records
-### CVI records
-### portable objects
-### BPX
-### BPX+
-### PDX
-### TCVR
+</br>### CV records
+</br>### CVI records
+</br>### portable objects
+</br>### BPX
+</br>### BPX+
+</br>### PDX
+</br>### TCVR
 
 ## Reference 
 ---- https://github.com/pjalagna/reference
-### Guard and bees system
+</br>### Guard and bees system
 -- https://github.com/pjalagna/reference/blob/master/GuardsBees
