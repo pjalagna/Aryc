@@ -7,7 +7,7 @@
 </br>###moose  == mulitple object operating system
 -- https://github.com/pjalagna/moose
 </br>###weed == Watchdog Timer device (WDT)
--- link
+-- https://github.com/pjalagna/WDT
 </br>###bail == mechinism for patching code fragments
 </br>###sections == mechinism and platorm for unsynchronized assembly
 -- link
