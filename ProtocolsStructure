@@ -11,8 +11,16 @@
 #### NULL <- this null ends records input
 
 ### portable objects
+#### envelope ((EnvID) [from], to, original-date)
+##### transaction ((TrID) service-requested , service-date, [CV parameters] , BasiiArchitectureURL )
+
+Basii Architecture (in database)
+- all keyed by transaction.TrID
+# nds , data-stack, data-index, return-stack, returnStk-index, heap, heap-index, lib (BPX)
+
 ### BPX
-### BPX+
+((paragraph-name,Clause-Number,Verb-Number) verbName, LitString)
+
 ### PDX
 ((point-id( operator  yes-pointer, no-pointer)
 language:
@@ -24,3 +32,29 @@ point-id op --{-}> nextNumber
  if point-id is number1.number2 then number2 is the not-true pointer for number1
  if point-id is a negitive number execution stops and returns with thatnumber (-1 is ok exit)
 ### TCVR
+- a row wide data store (similar to RDF) where the tuple (t,c,r,v) and has strict rules
+-- structure rules
+--- dataStore structure is maintained by method (no c-name violations exist)
+-- write rules
+--- all parameters must be written none can be null; r=0 is significant
+--- for [c] in t to be a unique record r must be unique
+--- r may span across different t's (side car dataStores)
+
+-- seek rules
+--- function seekTCVR(dh,t,c,v,r) except dh any or all parameters may be blank
+---- r=0 is significant
+# blank -> [t] all t in dataStore
+# t => [r] all record id's included in t
+# tr;r=0 => [c] the structure of t
+# tr;r<>0 => [c] the structure of t at r (partial records, variable records allowed)
+-- partial records == [c] that follow the structure of t at r=0
+-- variable records == [c] that have a different structure than t at r=0. 
+--- c may or may not exist in t at r=0.
+# tc => [v] the domain of c in t
+# tcv => [r] the set of [r] that have c=v
+# tcr => v the one unique v of c at t,r
+
+maintained in database or embedded
+in database T: ((TCR)V)
+embedded as array [t][c][r]=v and [t][r][c]=v
+
