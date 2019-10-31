@@ -54,7 +54,8 @@ point-id op --{-}> nextNumber
 # tcv => [r] the set of [r] that have c=v
 # tcr => v the one unique v of c at t,r
 
-maintained in database or embedded
+maintained in database, json or embedded
 in database T: ((TCR)V)
-embedded as array [t][c][r]=v and [t][r][c]=v
+json {t {r {c=v}}} and {t {c {v {r}}}}
+embedded as array [t][c][v][r] and [t][r][c]=v
 
