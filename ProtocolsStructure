@@ -30,7 +30,10 @@ point-id op --{-}> nextNumber
  ^-------V  
  @endend
  if point-id is number1.number2 then number2 is the not-true pointer for number1
- if point-id is a negitive number execution stops and returns with thatnumber (-1 is ok exit)
+ -- number2 ALSO exists as a point IE px,op --> number2 is valid
+ if point-id is a negitive number execution stops and returns with that number 
+ -- (-1 is the assumed 'ok' exit)
+
 ### TCVR
 - a row wide data store (similar to RDF) where the tuple (t,c,r,v) and has strict rules
 -- structure rules
